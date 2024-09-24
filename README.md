@@ -6,11 +6,11 @@ CIT allows me to change the textures of items or even add custom models.
 you get these special re-textures from renaiming them in an anvil.
 
 --======-----
--CROWNS=-
+# CROWNS=-
 - iron helmet -> iron crown
 - gold helmet -> gold crown
 - turtle helmet -> emerald crown
 - diamond helmet -> diamond crown
 - netherite helmet -> netherite crown
--SWORDS=-
+# SWORDS=-
 - iron sword -> claymore
